@@ -40,7 +40,7 @@ Hotels often struggle with setting room prices that reflect market demand and cu
 
 ## 🤝 Credits
 
-Originally developed and posted by [@rishiwalia08](https://github.com/rishiwalia08) & [@ac265640(https://github.com/ac265640)] .  
+Originally developed and posted by [@rishiwalia08](https://github.com/rishiwalia08) & [@ac265640](https://github.com/ac265640) .  
 This version was extended and maintained by **me** to include further improvements and documentation.
  
  ---
